@@ -130,7 +130,7 @@ function draw() {
   
     textSize(20);
     fill(255);
-    text("Press Up Arrow to Restart the game!", 500,200);
+    text("Presiona la flecha hacia arriba para reiniciar el juego", 500,200);
   
     path.velocityX = 0;
     mainCyclist.velocityY = 0;
